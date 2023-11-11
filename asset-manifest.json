@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Resume-cooker/static/css/main.80f2ae97.chunk.css",
+    "main.js": "/Resume-cooker/static/js/main.bdd982ca.chunk.js",
+    "main.js.map": "/Resume-cooker/static/js/main.bdd982ca.chunk.js.map",
+    "runtime-main.js": "/Resume-cooker/static/js/runtime-main.4ab37f42.js",
+    "runtime-main.js.map": "/Resume-cooker/static/js/runtime-main.4ab37f42.js.map",
+    "static/js/2.d01e23f8.chunk.js": "/Resume-cooker/static/js/2.d01e23f8.chunk.js",
+    "static/js/2.d01e23f8.chunk.js.map": "/Resume-cooker/static/js/2.d01e23f8.chunk.js.map",
+    "index.html": "/Resume-cooker/index.html",
+    "static/css/main.80f2ae97.chunk.css.map": "/Resume-cooker/static/css/main.80f2ae97.chunk.css.map",
+    "static/js/2.d01e23f8.chunk.js.LICENSE.txt": "/Resume-cooker/static/js/2.d01e23f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4ab37f42.js",
+    "static/js/2.d01e23f8.chunk.js",
+    "static/css/main.80f2ae97.chunk.css",
+    "static/js/main.bdd982ca.chunk.js"
+  ]
+}
